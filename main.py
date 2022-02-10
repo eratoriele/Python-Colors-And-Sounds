@@ -1,4 +1,3 @@
-from re import S
 from PyQt5 import QtGui
 import PyQt5
 from PyQt5.QtWidgets import QApplication, QMainWindow, QDialog, QGridLayout, QLabel, QLineEdit, QPushButton
